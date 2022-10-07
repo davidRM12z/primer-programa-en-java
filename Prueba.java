@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Rojo Martin");
 		System.out.println("21 años-2001");
+		System.out.println("Ensaladilla rusa");
 		
 	}
 
